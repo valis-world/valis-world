@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Valentin Sutter
 
-🎓 Student | 🐍 Python Enthusiast | 🧑‍💻 Web Developer | 🎈 Former Space Balloon Explorer
+🎓 Student | 🐍 Python Enthusiast | 💻 Web Developer | 🛠️ Tech Innovator | 🚀 Space Enthusiast  
 
-I started my coding journey with **Python**, building automations and exploring hardware projects. Recently, I've been diving into **web development**.
+I began my tech journey with **Python**, creating automations and diving into hardware projects. Over time, I've expanded into **web development**, all while maintaining my passion for building innovative systems.
 
-Previously, I worked on a **stratospheric balloon project**, where we sent sensor data and live video from the edge of space. This experience sparked my interest in **space tech** and **communications systems**, and it continues to shape the way I approach both software and hardware projects today.
+One of my most exciting experiences was working on a **stratospheric balloon project**, where we captured sensor data and live video from the edge of space. This experience deepened my interest in **space technology**, **satellite systems**, and the potential of **high-altitude experiments** — areas that continue to shape my approach to both software and hardware projects today.
 
-## 🛠️ Interests
+## 🛠️ What I’m Into
 
-- **Python** (scripting, automation)
-- **Web development** (HTML, CSS, JavaScript)
+- **Python** (automation, scripting, data processing)
+- **Web development** (HTML, CSS, JavaScript, backend technologies)
 - **Hardware projects** and **hardware hacking**
-- **Space tech** and **communications systems** (satellites, high-altitude experiments)
-- **Systems programming** and **exploring new technologies**
+- **Space tech** (satellites, high-altitude experiments, exploration technologies)
+- **Systems programming** and **cutting-edge technologies**

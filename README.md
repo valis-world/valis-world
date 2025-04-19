@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentin Sutter
 
-<!--
-**valis-world/valis-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 🐍 Python Enthusiast | 🧑‍💻 Web Developer | 🎈 Former Space Balloon Explorer
 
-Here are some ideas to get you started:
+I started my coding journey with **Python**, building automations and exploring hardware projects. Recently, I've been diving into **web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked on a **stratospheric balloon project**, where we sent sensor data and live video from the edge of space. This experience sparked my interest in **space tech** and **communications systems**, and it continues to shape the way I approach both software and hardware projects today.
+
+## 🛠️ Interests
+
+- **Python** (scripting, automation)
+- **Web development** (HTML, CSS, JavaScript)
+- **Hardware projects** and **hardware hacking**
+- **Space tech** and **communications systems** (satellites, high-altitude experiments)
+- **Systems programming** and **exploring new technologies**

@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Valentin Sutter
 
-🎓 Student | 🐍 Python Enthusiast | 💻 Web Developer | 🛠️ Tech Innovator | 🚀 Space Enthusiast  
+🎓 Student Engineer | 🐍 Python Tinkerer | 🌐 Web & Systems Developer | 🛠️ Hardware Hacker | 🚀 Space Tech Enthusiast  
 
-I began my tech journey with **Python**, creating automations and diving into hardware projects. Over time, I've expanded into **web development**, all while maintaining my passion for building innovative systems.
+I build the systems that keep missions running — from the edge of the stratosphere to the comfort of my gravity-assisted workspace.
 
-One of my most exciting experiences was working on a **stratospheric balloon project**, where we captured sensor data and live video from the edge of space. This experience deepened my interest in **space technology**, **satellite systems**, and the potential of **high-altitude experiments** — areas that continue to shape my approach to both software and hardware projects today.
+My journey started with **Python**, automating everything I could touch. Since then, I’ve expanded into **web development**, **low-level systems**, and **hardware hacking** — fusing bits and atoms into working prototypes.
+
+One of my proudest moments? Developing a **stratospheric balloon** at 15, capturing real-time sensor data and video from near space. That project didn’t just launch a payload — it launched my obsession with **space systems**, **satellite comms**, and building tech that doesn’t break at 30,000 meters.
 
 ## 🛠️ What I’m Into
 
-- **Python** (automation, scripting, data processing)
-- **Web development** (HTML, CSS, JavaScript, backend technologies)
-- **Hardware projects** and **hardware hacking**
-- **Space tech** (satellites, high-altitude experiments, exploration technologies)
-- **Systems programming** and **cutting-edge technologies**
+- **Python**, from scripting to automation to embedded systems  
+- **Web dev**, full-stack workflows and fast backend builds  
+- **Hardware projects**, from soldering to signal processing  
+- **Space technology**, especially comms and data systems  
+- **Systems programming**, fast, efficient, and close to the metal  
+
+---
+
+🧠⌨️  
+*I’m not strapping into a rocket — I’m strapping your entire mission to my keyboard and a triple-monitor setup.*
